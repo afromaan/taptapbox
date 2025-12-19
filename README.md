@@ -2,7 +2,7 @@
 
 DIY something like streamdeck
 
-@afromaan and ´s project
+@afromaan and @domcajs´s project
 
 ## Overview
 TapTapBox is fully 3D printed (resin) small keyboard with nine buttons, each one for one thing and the display to see time, volume and other stats you choose.
