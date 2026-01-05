@@ -57,7 +57,7 @@ The code for both the website and the RPI can be found in files.
 
 ## 🔗 Sources, inspirations and citations
 -  AFROMAAN, afromaan a DOMCAJS, domcajs. ⌨️ TapTapBox ⌨️ – DIY something like streamdeck. GitHub [online]. 2026 [cit. 2026-01-05]. Dostupné z: https://github.com/afromaan/taptapbox
-- [The first idea](https://www.youtube.com/shorts/9noVofgd8as)
-- [Display thingy](https://www.youtube.com/watch?v=_TcliiU2K48)
-- [Almost manual](https://www.youtube.com/watch?v=_NqYtvLnY5k)
+-  Unknown author. YouTube Shorts video. YouTube [online]. 2026 [cit. 2026-01-05]. Dostupné z: https://www.youtube.com/shorts/9noVofgd8as
+-  Unknown author. YouTube video. YouTube [online]. 2026 [cit. 2026-01-05]. Dostupné z: https://www.youtube.com/watch?v=_TcliiU2K48
+-  Unknown author. YouTube video. YouTube [online]. 2026 [cit. 2026-01-05]. Dostupné z: https://www.youtube.com/watch?v=_NqYtvLnY5k
 
