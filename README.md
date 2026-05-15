@@ -63,7 +63,9 @@ Next move is to make it work somehow and atleast partly.<br>
 ⬇ You can see our progress down here ⬇
 
 <p align="center">
-  <img src="assets/images/prototype1.jpg" width="700">
+  <img src="assets/images/img1.png" width="700"><br><br>
+  <img src="assets/images/img2.JPEG" width="700"><br><br>
+  <img src="assets/images/img2.png" width="700">
 </p>
 
 <br>  
