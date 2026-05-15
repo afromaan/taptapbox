@@ -47,18 +47,24 @@ In the past we wanted to make one button "extra" universal by adding one of thos
 The code for both the website and the RPI can be found in files.
 
 ### ⚠️ WEBSITE ISN´T ONLINE YET ⚠️
+
 <br> 
 <br> 
-<br> 
-### edit 2026
+<br>
+
+### ✏️ EDIT & UPDATE 2026 ✏️
   In past few months we made big step forward - we made our own PCBs (thanks to JLCPCB), we soldered all the components and now we are fully focused on the body of DashCluster and the code.
-Next move is to make it work somehow and atleast partly. 
-<br>  
-  We’ve also made several major changes and decisions. TapTapBox now officially carries the product name DashCluster, mainly because the project is no longer meant to resemble a Stream Deck. Instead, we’re focusing on creating multiple dedicated versions for different PC games, with our primary targets currently being Euro Truck Simulator and Farming Simulator.
-<br> 
-  Both games feature a huge number of interactive controls and functions, so the road ahead is still quite long. However, this complexity won’t affect the final user experience. DashCluster is being designed as a fully modular product. Every keycap will be available for separate purchase, including custom icons and designs. The firmware will be downloadable directly from our website, where users will also be able to fully customize their keyboard layout, RGB lighting, and game-specific integrations and profiles.
+Next move is to make it work somehow and atleast partly.<br>  
+
+  We’ve also made several major changes and decisions. TapTapBox now officially carries the product name DashCluster, mainly because the project is no longer meant to resemble a Stream Deck. Instead, we’re focusing on creating multiple dedicated versions for different PC games, with our primary targets currently being Euro Truck Simulator and Farming Simulator.<br>
+ 
+  Both games feature a huge number of interactive controls and functions, so the road ahead is still quite long. However, this complexity won’t affect the final user experience. DashCluster is being designed as a fully modular product. Every keycap will be available for separate purchase, including custom icons and designs. The firmware will be downloadable directly from our website, where users will also be able to fully customize their keyboard layout, RGB lighting, and game-specific integrations and profiles.<br>
 
 ⬇ You can see our progress down here ⬇
+
+<p align="center">
+  <img src="assets/images/prototype1.jpg" width="700">
+</p>
 
 <br>  
 <br>  
