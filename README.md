@@ -60,12 +60,53 @@ Next move is to make it work somehow and atleast partly.<br>
  
   Both games feature a huge number of interactive controls and functions, so the road ahead is still quite long. However, this complexity won’t affect the final user experience. DashCluster is being designed as a fully modular product. Every keycap will be available for separate purchase, including custom icons and designs. The firmware will be downloadable directly from our website, where users will also be able to fully customize their keyboard layout, RGB lighting, and game-specific integrations and profiles.<br>
 
-⬇ You can see our progress down here ⬇
+## What components are we using?
+<ul>
+  <li>
+    <strong>RP2040 Pico</strong><br>
+    Compact microcontroller board powering the entire DashCluster system.
+  </li>
+
+  <li>
+    <strong>WS2812B LEDs</strong><br>
+    Individually addressable RGB LEDs for customizable lighting effects.
+  </li>
+
+  <li>
+    <strong>Brown Switches</strong><br>
+    Tactile mechanical switches with quiet feedback and comfortable actuation.
+  </li>
+
+  <li>
+    <strong>Resistors</strong><br>
+    Essential components used for current limiting and signal stability.
+  </li>
+
+  <li>
+    <strong>Electrolytic Capacitors</strong><br>
+    Used for voltage smoothing and power stabilization.
+  </li>
+
+  <li>
+    <strong>Ceramic Capacitors</strong><br>
+    Small capacitors for filtering noise and stabilizing signals.
+  </li>
+
+  <li>
+    <strong>Solderable standoffs</strong><br>
+    Spacers used to mount RP2040 and get it to circuit.
+  </li>
+</ul><br>
 
 <p align="center">
-  <img src="assets/images/img1.png" width="700"><br><br>
-  <img src="assets/images/img2.JPEG" width="700"><br><br>
-  <img src="assets/images/img2.png" width="700">
+    ⬇️ You can see our progress down here and Excel table in the files ⬇️
+  </strong>
+</p>
+
+<p align="center">
+  <img src="/images/img1.png" width="700"><br><br>
+  <img src="/images/img2.JPEG" width="700"><br><br>
+  <img src="/images/img3.png" width="700">
 </p>
 
 <br>  
